@@ -9,7 +9,7 @@ import { WeatherSearchComponent } from './weather-search/weather-search.componen
   declarations: [
     WeatherCardComponent,
     WeatherForecastComponent,
-    WeatherSearchComponent
+    WeatherSearchComponent,
   ],
   imports: [
     CommonModule,
